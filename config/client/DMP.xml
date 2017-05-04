@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ServiceInfo>
+  <Service>
+    <!-- 日志服务状态，0：不接受日志  1：接受日志 -->
+    <Status>1</Status>
+    <!-- 日志服务等级，0：接受所有日志  1：接受warning日志 2：只接受error日志  -->
+    <Level>2</Level>
+
+    <!-- 客户端请求秘钥 -->
+    <Token>qwet31</Token>
+  </Service>
+</ServiceInfo>
